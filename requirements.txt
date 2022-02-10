@@ -1,0 +1,8 @@
+flytekit>=0.20.0
+datetime
+statsmodels
+matplotlib
+warnings
+pandas 
+numpy 
+tensorflow
